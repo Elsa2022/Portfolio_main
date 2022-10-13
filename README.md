@@ -1,6 +1,6 @@
 # Portfolio
 This portfolio is a small project using HTML , CSS, BootStrap, I will be using this to showcase my projects !
-[Live Heroku Deployment](https://portfolio-elsa.herokuapp.com/)
+[Live Deployment](https://portfoliomain.elsam2.repl.co/)
 ## Technologies Used
 - HTML
 - CSS
